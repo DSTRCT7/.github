@@ -1,7 +1,5 @@
 # The DSTRCT
 
-![DSTRCT Banner][banner]
-
 Welcome to The DSTRCT - where digital art meets community. Our journey began with the exclusive DSTRCT 111 collection and continues to expand with our upcoming CTZNS release.
 
 ## DSTRCT 111 Collection
@@ -12,8 +10,6 @@ Our genesis collection of 111 unique pieces was exclusively gifted to early supp
 - **Status**: Completed
 - **Marketplace**: [Magic Eden](https://magiceden.us/ordinals/marketplace/dstrct111)
 
-![DSTRCT 111 Preview][preview1]
-
 ## The CTZNS Collection (Coming Soon)
 Get ready for our most ambitious project yet - The CTZNS collection.
 
@@ -21,8 +17,6 @@ Get ready for our most ambitious project yet - The CTZNS collection.
 - **Collection Size**: 9,999 pieces
 - **Status**: Coming Soon
 - **Art**: Created by the talented [Evvi](https://x.com/Evviart)
-
-![CTZNS Preview][preview2]
 
 ## Artwork
 Our collections feature stunning anime-inspired artwork created by the renowned artist [Evvi](https://x.com/Evviart), bringing unique characters and stories to life in the digital realm.
@@ -45,9 +39,3 @@ Stay tuned for exciting announcements about:
 ## Contact & Support
 
 For the latest updates and information, follow us on [Twitter](https://x.com/mydstrct).
-
----
-
-[banner]: path/to/banner-image.png
-[preview1]: path/to/dstrct111-preview.png
-[preview2]: path/to/ctzns-preview.png
